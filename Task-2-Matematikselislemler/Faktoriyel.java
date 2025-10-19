@@ -1,12 +1,13 @@
 250541604
   Muhammed AHMED
 
-    public class FaktoryelJava {
+    public class Faktoriyeljava {
     public static void main(String[] args) {
-     int x=1+2+3+4+5+6+7+8+9;
-     // x'i hesapla (bu bir yorum)
-     System.out.println("1+2+3+4+5+6+7+8+9=" +x);
-     //yazdır
+     int x=5*4*3*2*1;
+     System.out.println("5!=5*4*3*2*1="+x);
     }
 
 }
+
+
+   
