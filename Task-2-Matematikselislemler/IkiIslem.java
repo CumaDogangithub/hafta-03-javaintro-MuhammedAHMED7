@@ -1,5 +1,3 @@
-250541604
-  Muhanmmed AHMED
 
     public class İkiislem {
     public static void main(String[] args) {
@@ -10,3 +8,4 @@
 
     }
 }
+
