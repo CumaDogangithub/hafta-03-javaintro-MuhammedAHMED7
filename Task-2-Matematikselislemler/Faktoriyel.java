@@ -1,5 +1,3 @@
-250541604
-  Muhammed AHMED
 
     public class Faktoriyeljava {
     public static void main(String[] args) {
@@ -11,3 +9,4 @@
 
 
    
+
