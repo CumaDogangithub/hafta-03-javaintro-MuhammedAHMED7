@@ -1,5 +1,3 @@
-250541601
-  Muhammed AHMED
 
      public class DaireHesapla {
     public static void main(String[] args) {
@@ -13,3 +11,4 @@
         System.out.println("alan: " + alan);
     }
 }
+
