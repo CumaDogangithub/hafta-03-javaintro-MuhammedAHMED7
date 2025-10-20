@@ -1,6 +1,4 @@
-250541604
-  Muhammed AHMED
-    
+
 
 public class UcMesaj {
     public static void main(String[] args)  {
@@ -11,4 +9,5 @@ public class UcMesaj {
     }
 
 }
+
 
