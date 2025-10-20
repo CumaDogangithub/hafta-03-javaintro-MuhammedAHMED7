@@ -1,5 +1,4 @@
-250541604
-  Muhammed AHMED
+
 
      public class DikdortgenHesap {
     public static void main(String[] args) {
@@ -12,3 +11,4 @@
     System.out.println("Cevre :" +cevre);
     }
 }
+
