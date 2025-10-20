@@ -1,5 +1,3 @@
-250541604
-  Muhammed AHMED
 
 public class BesKereTekrar {
     public static void main(String[] args) {
@@ -13,3 +11,4 @@ public class BesKereTekrar {
     }
 
 }
+
