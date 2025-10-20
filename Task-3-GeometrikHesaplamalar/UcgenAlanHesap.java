@@ -1,5 +1,3 @@
-250541604
-  Muhammed AHMED
 
      public class UcgenHesap {
     public static void main(String[] args) {
@@ -17,4 +15,5 @@
 
       }
       }
+
 
