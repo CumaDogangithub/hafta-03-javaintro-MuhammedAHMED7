@@ -1,5 +1,4 @@
-250541604
-  Muhammed AHMED
+
 
      class Main {
     public static void main(String[] args) { 
@@ -11,3 +10,4 @@
    }
    
 }
+
