@@ -1,5 +1,3 @@
-250541604
-  Muhammed AHMED
 
      public class HesapOzeti {
     public static void main(String[] args) { 
@@ -27,3 +25,4 @@
    }
    
 }
+
