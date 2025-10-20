@@ -1,5 +1,3 @@
-250541604
-  Muhammed AHMED
 
     public class ToplamaSerijava {
     public static void main(String[] args) {
@@ -10,3 +8,4 @@
     }
 
 }
+
