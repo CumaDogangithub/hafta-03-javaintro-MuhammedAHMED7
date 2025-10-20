@@ -1,5 +1,3 @@
-250541604
-  Muhammed AHMED
 
      public class İsimKarti {
     public static void main(String[] args) {
@@ -18,3 +16,4 @@
      System.out.println(",,,,,,,,,,");
     }
 }
+
